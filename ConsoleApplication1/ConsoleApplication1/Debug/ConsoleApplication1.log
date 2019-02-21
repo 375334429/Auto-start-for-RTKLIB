@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+c:\users\37533\desktop\linshi\consoleapplication1\consoleapplication1\consoleapplication1.cpp(45): warning C4307: “*”: 整型常量溢出
+  ConsoleApplication1.vcxproj -> C:\Users\37533\Desktop\linshi\ConsoleApplication1\Debug\ConsoleApplication1.exe
