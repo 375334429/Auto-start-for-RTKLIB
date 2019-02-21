@@ -1,2 +1,4 @@
 # Auto-start-for-RTKLIB
-可以启动6个RTKLIB程序
+可以打开6个RTKLIB程序并单击其中的开始按钮
+不足之处是RTKLIB的路径必须与程序中设置的一样
+可以修改此程序以控制其它窗口程序
